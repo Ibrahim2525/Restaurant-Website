@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toggleBtn"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"b",
+				"body-color"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"t",
+				"title-color"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"bod",
+				"body-color"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"an",
+				"animation-delay"
+			],
+			[
+				"ani",
+				"animation\tproperty"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"i",
+				"initial\ttransition"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"in",
+				"initial\tjustify-content"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"ne",
+				"newsletter-container"
+			],
+			[
+				"new",
+				"Newsletter"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"image",
+				"image-groupe"
+			],
+			[
+				"head",
+				"headline-dark"
+			],
+			[
+				"hea",
+				"headline-dark"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"re",
+				"restaurant-information"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"main-font",
+				"main-font-color-dark"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"body",
+				"body-font-color"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"border-le",
+				"border-left-color\tproperty"
+			],
+			[
+				"border-ri",
+				"border-right-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"seco",
+				"secondary-font-color"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"se",
+				"secondary-font-color"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tar",
+				"translateX()\ttransform"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"transfo",
+				"transform\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"bored",
+				"border-radius\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"inpu",
+				"inputbox"
+			],
+			[
+				"bu",
+				"burger"
+			],
+			[
+				"img",
+				"img-circle"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"my",
+				"myimg"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/Desktop/Restaurant/coff.html",
+		"/C/Users/DELL/Desktop/Restaurant/ind-ex.js",
+		"/C/Users/DELL/Desktop/Restaurant/inde-x.css",
+		"/C/Users/DELL/Desktop/Blooger_Website-master/bin.js",
+		"/C/Users/DELL/Desktop/website2/bin.js",
+		"/C/Users/DELL/Desktop/Blooger_Website-master/js/owl.carousel.min.js",
+		"/C/Users/DELL/Desktop/GSAP.animation/styless.css",
+		"/C/Users/DELL/Desktop/GSAP.animation/index.html",
+		"/C/Users/DELL/Desktop/index.html",
+		"/C/Users/DELL/Desktop/website2/site.html",
+		"/C/Users/DELL/Desktop/website2/styl.css",
+		"/C/Users/DELL/Desktop/mywebsite/pr/ab.html",
+		"/C/Users/DELL/Desktop/mywebsite/pr/ac.css",
+		"/C/Users/DELL/Desktop/Bootstrap/tous/New folder/style.css",
+		"/C/Users/DELL/Desktop/Bootstrap/tous/New folder/style.html",
+		"/C/Users/DELL/Desktop/Bootstrap/tous/New folder/rtl.html",
+		"/C/Users/DELL/Desktop/New folder/style.html",
+		"/C/Users/DELL/Desktop/mywebsite/index.html",
+		"/C/Users/DELL/Desktop/mywebsite/restaurants/style.css",
+		"/C/Users/DELL/Desktop/mywebsite/restaurants/two.js",
+		"/C/Users/DELL/Desktop/mywebsite/restaurants/first.html",
+		"/C/Users/DELL/Desktop/mywebsite/css/sheet.css",
+		"/C/Users/DELL/Desktop/mywebsite/images/photo.jpg",
+		"/C/Users/DELL/Desktop/mywebsite/Js/Script.js",
+		"/C/Users/DELL/Desktop/mycompany.sql"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ind-ex.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
